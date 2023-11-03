@@ -16,4 +16,7 @@ Materiales necesarios para realizar los laboratorios del curso Economía y Model
 | Vie 22 de sep 12:20          | Consultas laboratorio 6       |Cálculo de accesibilidad| Teams     |[Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDk1M2VhNGEtZjQzZi00YjI5LThjMTktODdhNWI2YjYxMTVj%40thread.v2/0?context=%7b%22Tid%22%3a%225ff5d9fa-f83f-4ac1-a4d2-eb48ea0a00d2%22%2c%22Oid%22%3a%2246fcae6a-2d31-414f-981e-fad1afc6c4cc%22%7d)|
 | Vie 22 de sep 13:30         | Laboratorio 7       |Estimación de modelos| Youtube     | [Link](https://youtu.be/0tk0pDxiPWU)|
 | Vie 29 de sep 12:20          | Consultas laboratorio 7       |Estimación de modelos| Teams     |[Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDk1M2VhNGEtZjQzZi00YjI5LThjMTktODdhNWI2YjYxMTVj%40thread.v2/0?context=%7b%22Tid%22%3a%225ff5d9fa-f83f-4ac1-a4d2-eb48ea0a00d2%22%2c%22Oid%22%3a%2246fcae6a-2d31-414f-981e-fad1afc6c4cc%22%7d)|
+| Vie 03 de nov 13:30          | Laboratorio 8       |Simulación| Youtube     |[Link](https://youtu.be/5cVgNQ06kDA)|
+| Vie 03 de nov 13:30          | Laboratorio 9       |Equilibrio| Youtube     |[Link](https://youtu.be/2hYxmDNG2Wg)|
+| Vie 10 de nov 12:20          | Consultas laboratorios 8 y 9       |Simulación y Equilibrio| Teams     |link por confirmar|
 
